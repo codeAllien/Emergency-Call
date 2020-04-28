@@ -14,15 +14,15 @@ The idea is to create an application that can be simply downloaded from Google o
 Instead, the Dashboard that reports all the information collected, should be distributed among all the health care centres and volunteers of the Red Cross to increase its performance effect on the collection of people.
 In addition, all the information can be used to monitor the number of patients affected and with which symptoms, even for scientific research. It is also possible to implement an active geolocation so that the Red Cross volunteer can recognise through Live Geolocation if the patient is in the vicinity.
 
-# Please see the following repo for the entire project
-# https://github.com/codeAllien/callForCode2020 => IONIC
-# https://github.com/codeAllien/emergencyDashboard => Dashboard
-# https://github.com/codeAllien/real-time-backend => Real Time backend
-# https://github.com/codeAllien/emergencyServer => Server
+## Please see the following repo for the entire project
+### https://github.com/codeAllien/emergencyUserApp
+### https://github.com/codeAllien/emergencyDashboard
+### https://github.com/codeAllien/real-time-backend
+### https://github.com/codeAllien/emergencyServer
 
 ## Infrastructure
 1. Ionic App to install on the patient phone
 2. Server Node.js that push the informations to the database
 3. Mongo DB database
 4. CUBE.JS for the rela time dashboard
-5. Electron Dashboard
+5. Electron/ Angular Dashboard
