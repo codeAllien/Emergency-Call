@@ -25,3 +25,6 @@ In addition, all the information can be used to monitor the number of patients a
 3. Mongo DB database
 4. CUBE.JS for the rela time dashboard
 5. Electron/ Angular Dashboard
+
+## Author:
+* Giulia Gallico - [codeAllien](https://github.com/codeAllien)
